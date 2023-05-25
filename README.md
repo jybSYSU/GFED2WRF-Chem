@@ -7,7 +7,8 @@ Converting Global GFED to WRF-Chem
 1.该开源软件包是处理全球火点GFED数据将其转换为区域空气质量模型WRF-Chem所选取MOZART-MOSAIC方案的火点排放数据；<br>
 2.WRF-Chem选取的MOZART-MOSAIC方案的气溶胶和气体请看文件GFED_Factors.xlsx；<br>
 3.本软件使用了FINN1.5处理过的数据作为基础；<br>
-                                                             软件使用
+                                                             
+                                                             <center>软件使用</center>
 1). 准备FINN1.5基础数据，数据放在某个文件夹下，给软件包中的Input添加路径;<br>
 2). 给输出新的GFED数据新建文件夹名字，在软件包中修改Output;<br>
 3). 指明下载的GFED全球数据文件所在位置和文件名称，在软件包中修改GFED_raw_data;<br>
