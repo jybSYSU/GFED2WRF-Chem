@@ -17,11 +17,11 @@ Converting Global GFED to WRF-Chem
 
 英文（English）
 
-                                                               Software use
+
 1. the open source package is processing global fire point GFED data to convert it into fire point emission data for the MOZART-MOSAIC scenario selected by the regional air quality model WRF-Chem;<br>
 2. aerosols and gases for the MOZART-MOSAIC scenario selected by WRF-Chem see the file GFED_Factors.xlsx;<br>
 3. this software uses FINN 1.5 processed data as a basis;<br>
-                                                             Software use
+
 
 1). Prepare FINN1.5 base data, with the data in a certain folder, adding a path to Input in the package;<br>
 2). Create a new folder name for the output of the new GFED data, and modify Output in the package;<br>
